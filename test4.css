@@ -1,0 +1,109 @@
+img{
+    
+     position: absolute;
+    background-repeat: no-repeat;
+     background-size: cover;
+    height: 100%;
+    width: 100%;
+    
+}
+.turn{
+     margin-left: 30px;
+     position:absolute;
+     margin-left: 100px;
+     padding: 70px;
+     font-size:50px;
+     font-weight:10px;
+     text-shadow: red 3px 3px;
+    
+     
+
+}
+p{
+
+     position: absolute;
+     margin-left: 30px;
+    top: 200px;
+     margin-left: 100px;
+     padding: 70px;
+     font-style: italic;
+     
+
+}
+.but{
+position: absolute;
+    margin-left: 200px;
+    padding:30px;
+         margin-top: 350px;
+         height:7px;
+         width:  px;
+         border-style:solid;
+    border-width:3px;
+    font-size: 30px;
+    text-align: center;
+    top: 3px;
+    
+    border-color:black
+    
+    
+    
+      
+    }
+
+.logo{
+
+     position: absolute;
+     height: 200px;
+     width: 200px;
+     margin-left:80%;
+     top: 70px;
+     
+
+}
+
+
+
+
+.flex1{
+    width: 180px;
+    height: 230px;
+    border-style:dotted;
+    border-width:4px;
+    border-color: red;
+    position: absolute;
+    top: 230px;
+    margin-left:30%;
+    margin-top: 180px;
+    background-color: aqua;
+    
+
+}
+.flex2{
+    width: 180px;
+    height: 230px;
+    border-style:dotted;
+    border-width:4px;
+    border-color: red;
+    position: absolute;
+    top: 230px;
+    margin-left:45%;
+    margin-top: 180px;
+    background-color: aqua;
+}
+.flex3{
+
+    width: 180px;
+    height: 230px;
+    border-style:dotted;
+    border-width:4px;
+    border-color: red;
+    position: absolute;
+    top: 230px;
+    margin-left:60%;
+    margin-top: 180px;
+    background-color: aqua;
+}
+    
+    
+   
+    
